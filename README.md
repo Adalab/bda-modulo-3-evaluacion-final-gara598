@@ -1,1 +1,1 @@
-Prueba de evaluación del módulo 3 donde se realizan labores de extracción, limpieza, modificación, visualización y análisis de datos, poniendo en práctica los conocimientos adquiridos en este módulo.
+Prueba de evaluación del módulo 3 donde se realizan labores de exploración, limpieza, modificación, visualización y análisis de datos, poniendo en práctica los conocimientos adquiridos en este módulo.
